@@ -1,0 +1,69 @@
+C:\Users\Bayron\Desktop\Servicio facturacion\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Bayron\Desktop\Servicio facturacion\bin\Debug\net6.0\appsettings.json
+C:\Users\Bayron\Desktop\Servicio facturacion\bin\Debug\net6.0\Servicio facturacion.exe
+C:\Users\Bayron\Desktop\Servicio facturacion\bin\Debug\net6.0\Servicio facturacion.deps.json
+C:\Users\Bayron\Desktop\Servicio facturacion\bin\Debug\net6.0\Servicio facturacion.runtimeconfig.json
+C:\Users\Bayron\Desktop\Servicio facturacion\bin\Debug\net6.0\Servicio facturacion.dll
+C:\Users\Bayron\Desktop\Servicio facturacion\bin\Debug\net6.0\Servicio facturacion.pdb
+C:\Users\Bayron\Desktop\Servicio facturacion\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Bayron\Desktop\Servicio facturacion\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Bayron\Desktop\Servicio facturacion\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Bayron\Desktop\Servicio facturacion\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Bayron\Desktop\Servicio facturacion\obj\Debug\net6.0\Servicio facturacion.csproj.AssemblyReference.cache
+C:\Users\Bayron\Desktop\Servicio facturacion\obj\Debug\net6.0\Servicio facturacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bayron\Desktop\Servicio facturacion\obj\Debug\net6.0\Servicio facturacion.AssemblyInfoInputs.cache
+C:\Users\Bayron\Desktop\Servicio facturacion\obj\Debug\net6.0\Servicio facturacion.AssemblyInfo.cs
+C:\Users\Bayron\Desktop\Servicio facturacion\obj\Debug\net6.0\Servicio facturacion.csproj.CoreCompileInputs.cache
+C:\Users\Bayron\Desktop\Servicio facturacion\obj\Debug\net6.0\Servicio facturacion.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Bayron\Desktop\Servicio facturacion\obj\Debug\net6.0\Servicio facturacion.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bayron\Desktop\Servicio facturacion\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Bayron\Desktop\Servicio facturacion\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Bayron\Desktop\Servicio facturacion\obj\Debug\net6.0\scopedcss\bundle\Servicio facturacion.styles.css
+C:\Users\Bayron\Desktop\Servicio facturacion\obj\Debug\net6.0\Servicio facturacion.csproj.CopyComplete
+C:\Users\Bayron\Desktop\Servicio facturacion\obj\Debug\net6.0\Servicio facturacion.dll
+C:\Users\Bayron\Desktop\Servicio facturacion\obj\Debug\net6.0\refint\Servicio facturacion.dll
+C:\Users\Bayron\Desktop\Servicio facturacion\obj\Debug\net6.0\Servicio facturacion.pdb
+C:\Users\Bayron\Desktop\Servicio facturacion\obj\Debug\net6.0\Servicio facturacion.genruntimeconfig.cache
+C:\Users\Bayron\Desktop\Servicio facturacion\obj\Debug\net6.0\ref\Servicio facturacion.dll
+C:\Users\Bayron\Desktop\Servicio_facturacion\obj\Debug\net6.0\Servicio facturacion.csproj.AssemblyReference.cache
+C:\Users\Bayron\Desktop\Servicio_facturacion\obj\Debug\net6.0\Servicio facturacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bayron\Desktop\Servicio_facturacion\obj\Debug\net6.0\Servicio facturacion.AssemblyInfoInputs.cache
+C:\Users\Bayron\Desktop\Servicio_facturacion\obj\Debug\net6.0\Servicio facturacion.AssemblyInfo.cs
+C:\Users\Bayron\Desktop\Servicio_facturacion\obj\Debug\net6.0\Servicio facturacion.csproj.CoreCompileInputs.cache
+C:\Users\Bayron\Desktop\Servicio_facturacion\obj\Debug\net6.0\Servicio facturacion.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Bayron\Desktop\Servicio_facturacion\obj\Debug\net6.0\Servicio facturacion.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bayron\Desktop\Servicio_facturacion\obj\Debug\net6.0\Servicio facturacion.dll
+C:\Users\Bayron\Desktop\Servicio_facturacion\obj\Debug\net6.0\refint\Servicio facturacion.dll
+C:\Users\Bayron\Desktop\Servicio_facturacion\obj\Debug\net6.0\Servicio facturacion.pdb
+C:\Users\Bayron\Desktop\EVA EPE\Servicio_facturacion\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Bayron\Desktop\EVA EPE\Servicio_facturacion\bin\Debug\net6.0\appsettings.json
+C:\Users\Bayron\Desktop\EVA EPE\Servicio_facturacion\bin\Debug\net6.0\Servicio facturacion.exe
+C:\Users\Bayron\Desktop\EVA EPE\Servicio_facturacion\bin\Debug\net6.0\Servicio facturacion.deps.json
+C:\Users\Bayron\Desktop\EVA EPE\Servicio_facturacion\bin\Debug\net6.0\Servicio facturacion.runtimeconfig.json
+C:\Users\Bayron\Desktop\EVA EPE\Servicio_facturacion\bin\Debug\net6.0\Servicio facturacion.dll
+C:\Users\Bayron\Desktop\EVA EPE\Servicio_facturacion\bin\Debug\net6.0\Servicio facturacion.pdb
+C:\Users\Bayron\Desktop\EVA EPE\Servicio_facturacion\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Bayron\Desktop\EVA EPE\Servicio_facturacion\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Bayron\Desktop\EVA EPE\Servicio_facturacion\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Bayron\Desktop\EVA EPE\Servicio_facturacion\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Bayron\Desktop\EVA EPE\Servicio_facturacion\obj\Debug\net6.0\Servicio facturacion.csproj.AssemblyReference.cache
+C:\Users\Bayron\Desktop\EVA EPE\Servicio_facturacion\obj\Debug\net6.0\Servicio facturacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bayron\Desktop\EVA EPE\Servicio_facturacion\obj\Debug\net6.0\Servicio facturacion.AssemblyInfoInputs.cache
+C:\Users\Bayron\Desktop\EVA EPE\Servicio_facturacion\obj\Debug\net6.0\Servicio facturacion.AssemblyInfo.cs
+C:\Users\Bayron\Desktop\EVA EPE\Servicio_facturacion\obj\Debug\net6.0\Servicio facturacion.csproj.CoreCompileInputs.cache
+C:\Users\Bayron\Desktop\EVA EPE\Servicio_facturacion\obj\Debug\net6.0\Servicio facturacion.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Bayron\Desktop\EVA EPE\Servicio_facturacion\obj\Debug\net6.0\Servicio facturacion.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bayron\Desktop\EVA EPE\Servicio_facturacion\obj\Debug\net6.0\staticwebassets\msbuild.Servicio facturacion.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Bayron\Desktop\EVA EPE\Servicio_facturacion\obj\Debug\net6.0\staticwebassets\msbuild.build.Servicio facturacion.props
+C:\Users\Bayron\Desktop\EVA EPE\Servicio_facturacion\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Servicio facturacion.props
+C:\Users\Bayron\Desktop\EVA EPE\Servicio_facturacion\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Servicio facturacion.props
+C:\Users\Bayron\Desktop\EVA EPE\Servicio_facturacion\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Bayron\Desktop\EVA EPE\Servicio_facturacion\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Bayron\Desktop\EVA EPE\Servicio_facturacion\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Bayron\Desktop\EVA EPE\Servicio_facturacion\obj\Debug\net6.0\scopedcss\bundle\Servicio facturacion.styles.css
+C:\Users\Bayron\Desktop\EVA EPE\Servicio_facturacion\obj\Debug\net6.0\Servicio facturacion.csproj.CopyComplete
+C:\Users\Bayron\Desktop\EVA EPE\Servicio_facturacion\obj\Debug\net6.0\Servicio facturacion.dll
+C:\Users\Bayron\Desktop\EVA EPE\Servicio_facturacion\obj\Debug\net6.0\refint\Servicio facturacion.dll
+C:\Users\Bayron\Desktop\EVA EPE\Servicio_facturacion\obj\Debug\net6.0\Servicio facturacion.pdb
+C:\Users\Bayron\Desktop\EVA EPE\Servicio_facturacion\obj\Debug\net6.0\Servicio facturacion.genruntimeconfig.cache
+C:\Users\Bayron\Desktop\EVA EPE\Servicio_facturacion\obj\Debug\net6.0\ref\Servicio facturacion.dll
